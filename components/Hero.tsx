@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos; Abhiroop, a B.Tech undergraduate from India passionate about exploring the world of development and creating impactful solutions
+            Hi! I&apos; am Abhiroop, a B.Tech undergraduate from India passionate about exploring the world of development and creating impactful solutions
           </p>
 
           <a href="#about">

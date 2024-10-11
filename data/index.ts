@@ -96,10 +96,10 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "ToDOlist",
-      des: "Building a To-Do List using openAI api and convex as backend ",
-      img: "/todo.png",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg",],
+      title: "ShySpace",
+      des: "Built and AI mock Inteview platform ",
+      img: "/shyspace.png",
+      iconLists: ["/next.svg", "/tail.svg", "/gemeni.webp",],
       
     },
    
