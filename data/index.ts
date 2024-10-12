@@ -100,6 +100,7 @@ export const navItems = [
       des: "Built and AI mock Inteview platform ",
       img: "/shyspace.png",
       iconLists: ["/next.svg", "/tail.svg", "/gemeni.webp",],
+      link: "https://shy-space.vercel.app/",
       
     },
    
